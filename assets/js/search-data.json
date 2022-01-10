@@ -1,0 +1,158 @@
+{"0": {
+    "doc": "Features",
+    "title": "Features",
+    "content": ". | DVD Authoring | DVD Menus | Output | Video Input | Audio Input | Subtitles | Supported Platforms . | Windows | . | . ",
+    "url": "https://dvdbuilder.com/features/",
+    "relUrl": "/features/"
+  },"1": {
+    "doc": "Features",
+    "title": "DVD Authoring",
+    "content": ". | Define DVD structure with XML | Assign first play command | Multiple titles (up to 99) | Multiple video objects (VOB) per title (up to 10) | Multiple chapters per title | End play commands (jump to title, jump to menu) | DVD Virtual Machine Commands | . ",
+    "url": "https://dvdbuilder.com/features/#dvd-authoring",
+    "relUrl": "/features/#dvd-authoring"
+  },"2": {
+    "doc": "Features",
+    "title": "DVD Menus",
+    "content": ". | Create disc menu (VMGM) | Create video titleset root menus (VTS) | Create title menus | Use MPEG still picture or movie for menu background | Define up to 36 buttons per menu | Define buttons mask, transparency and highlight color | Navigate between titles from different title sets | . ",
+    "url": "https://dvdbuilder.com/features/#dvd-menus",
+    "relUrl": "/features/#dvd-menus"
+  },"3": {
+    "doc": "Features",
+    "title": "Output",
+    "content": ". | NTSC and PAL TV formats supported | 4:3 and 16:9 aspect ratio supported | Built-in MPEG-2 multiplexer | Built-in subtitle encoder | Outputs a finished VIDEO_TS directory with VOB, IFO and BUP files | Use PrimoBurner™ for DVD burning (requires a separate PrimoBurner license) | . ",
+    "url": "https://dvdbuilder.com/features/#output",
+    "relUrl": "/features/#output"
+  },"4": {
+    "doc": "Features",
+    "title": "Video Input",
+    "content": ". | MPEG-2 program stream | MPEG-2 elementary video stream | DVD Video OBject file (VOB) import | Read from a callback interface or directly from a file | Includes AVBlocks™ - a production quality MPEG-2 encoder | . ",
+    "url": "https://dvdbuilder.com/features/#video-input",
+    "relUrl": "/features/#video-input"
+  },"5": {
+    "doc": "Features",
+    "title": "Audio Input",
+    "content": ". | MPEG-2 elementary audio | AC3 (Dolby Digital) elementary audio | DTS elementary audio | Detect multiple audio streams and assign them to specific language | Read from a callback interface or directly from a file | . ",
+    "url": "https://dvdbuilder.com/features/#audio-input",
+    "relUrl": "/features/#audio-input"
+  },"6": {
+    "doc": "Features",
+    "title": "Subtitles",
+    "content": ". | Subpicture stream (encoded as MPEG-2 PS) | Subtitles in Spruce Technologies STL format | Detect multiple subtitle streams and assign them to specific language | Read from a callback interface or directly from a file | . ",
+    "url": "https://dvdbuilder.com/features/#subtitles",
+    "relUrl": "/features/#subtitles"
+  },"7": {
+    "doc": "Features",
+    "title": "Supported Platforms",
+    "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 · 2017 | . ",
+    "url": "https://dvdbuilder.com/features/#supported-platforms",
+    "relUrl": "/features/#supported-platforms"
+  },"8": {
+    "doc": "Download",
+    "title": "Download",
+    "content": " ",
+    "url": "https://dvdbuilder.com/download/",
+    "relUrl": "/download/"
+  },"9": {
+    "doc": "Download",
+    "title": "Windows",
+    "content": ".NET SDK . DVDBuilder.NET.3.4.0.x64.Demo.zip (64-Bit) . DVDBuilder.NET.3.4.0.x86.Demo.zip (32-Bit) . C++ SDK . DVDBuilder.3.4.0.x64.Demo.zip (64-Bit) . DVDBuilder.3.4.0.x86.Demo.zip (32-Bit) . ",
+    "url": "https://dvdbuilder.com/download/#windows",
+    "relUrl": "/download/#windows"
+  },"10": {
+    "doc": "License",
+    "title": "License",
+    "content": ". | Commercial / Full License | Discounts . | Competitive product | Startup | Educational institution | Open source project | . | Devices / Embedded – Contact us | . ",
+    "url": "https://dvdbuilder.com/license/",
+    "relUrl": "/license/"
+  },"11": {
+    "doc": "License",
+    "title": "Commercial / Full License",
+    "content": "$3000 / year . This license is for established businesses and organizations: . | Fixed annual fee per product, per platform | No additional royalties | No hidden fees | . Please contact DVDBuilder Sales. ",
+    "url": "https://dvdbuilder.com/license/#commercial--full-license",
+    "relUrl": "/license/#commercial--full-license"
+  },"12": {
+    "doc": "License",
+    "title": "Discounts",
+    "content": "Competitive product . $2250 / year (20% OFF) . Users of commercial products competitive to DVDBuilder qualify for a 20% OFF towards standard commercial license for DVDBuilder. Please contact DVDBuilder Sales. Startup . $1500 / year (50% OFF) . This discount is available to any company that meets all the following requirements: . | Is privately held, and | Has been in business for no more than 3 years, and | Is engaged in development of a software-based product or service, and | Is an established business with a website and/or existing public references on the Internet. | . License issued for 1 year. Must apply again to renew. Please contact DVDBuilder Sales. Educational institution . FREE . Classroom licenses allow for use of the fully-functional version of DVDBuilder for educational and teaching purposes in classrooms by professors, trainers, and students. | May be provided for students and teachers to be used for classroom assistance. | Allows the software to be installed and used in on-site classrooms and labs. | Allows students and teachers to use the software on their personal PCs for educational tasks, such as preparing training materials or doing homework. | . Please contact DVDBuilder Sales. Open source project . FREE . Non-commercial Open Source projects can qualify for free license to DVDBuilder provided that they meet a set of simple criteria: . | You have to be a project lead or a regular committer. | Your OS project meets the Open Source definition. | You do not perform any paid support, consulting or training services for your OS project, and you do not distribute paid versions of your OS software. | Your OS project is in active development for a minimum of 3 months. | Your OS project’s community is active. This means that you have recent activity in your newsgroups or forums. | Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted. | You release updated builds on a regular basis. | Your project license is a commercial use friendly license (i.e. not GPL, AGPL, LGPL, MPL or any other copyleft license). | . License issued for 1 year. Must apply again to renew. Please contact DVDBuilder Sales. ",
+    "url": "https://dvdbuilder.com/license/#discounts",
+    "relUrl": "/license/#discounts"
+  },"13": {
+    "doc": "License",
+    "title": "Devices / Embedded – Contact us",
+    "content": "Please contact DVDBuilder Sales. ",
+    "url": "https://dvdbuilder.com/license/#devices--embedded--contact-us",
+    "relUrl": "/license/#devices--embedded--contact-us"
+  },"14": {
+    "doc": "Documentation",
+    "title": "Documentation",
+    "content": " ",
+    "url": "https://dvdbuilder.com/documentation/",
+    "relUrl": "/documentation/"
+  },"15": {
+    "doc": "Documentation",
+    "title": ".NET (C#) API",
+    "content": "DVDBuilder for .NET . ",
+    "url": "https://dvdbuilder.com/documentation/#net-c-api",
+    "relUrl": "/documentation/#net-c-api"
+  },"16": {
+    "doc": "Documentation",
+    "title": "C++ API",
+    "content": "DVDBuilder Core (C++ / C) . NOTE: Both the C++ and the .NET API documentation is generated using Doxygen. ",
+    "url": "https://dvdbuilder.com/documentation/#c-api",
+    "relUrl": "/documentation/#c-api"
+  },"17": {
+    "doc": "Documentation",
+    "title": "Wiki",
+    "content": "On the DVDBuilder Wiki you will find how-to articles and code snippets about the C# and C++ SDKs. ",
+    "url": "https://dvdbuilder.com/documentation/#wiki",
+    "relUrl": "/documentation/#wiki"
+  },"18": {
+    "doc": "Documentation",
+    "title": "Samples",
+    "content": "DVDBuilder Samples is a repository of code samples on GitHub. The same code samples (pre-built) are included with the DVDBuilder packages which can be downloaded from the Download page. ",
+    "url": "https://dvdbuilder.com/documentation/#samples",
+    "relUrl": "/documentation/#samples"
+  },"19": {
+    "doc": "Support",
+    "title": "Support",
+    "content": "Technical support for DVDBuilder is provided via GitHub. ",
+    "url": "https://dvdbuilder.com/support/",
+    "relUrl": "/support/"
+  },"20": {
+    "doc": "Support",
+    "title": "Feature requests",
+    "content": "Please create an issue on GitHub. ",
+    "url": "https://dvdbuilder.com/support/#feature-requests",
+    "relUrl": "/support/#feature-requests"
+  },"21": {
+    "doc": "Support",
+    "title": "Report a bug",
+    "content": "Please create an issue on GitHub. ",
+    "url": "https://dvdbuilder.com/support/#report-a-bug",
+    "relUrl": "/support/#report-a-bug"
+  },"22": {
+    "doc": "Support",
+    "title": "Contact us",
+    "content": "You can always send an email to DVDBuilder Support. ",
+    "url": "https://dvdbuilder.com/support/#contact-us",
+    "relUrl": "/support/#contact-us"
+  },"23": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "DVDBuilder SDK is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
+    "url": "https://dvdbuilder.com/",
+    "relUrl": "/"
+  },"24": {
+    "doc": "Introduction",
+    "title": "Features",
+    "content": ". | Use XML to specify DVD features | Menus and languages | Subpicture and subtitles | Standard VIDEO_TS output that can be burned to DVD | Best DVD playback compatibility in the industry | Includes AVBlocks (Video SDK) | Integrates with PrimoBurner (Burning SDK) | . ",
+    "url": "https://dvdbuilder.com/#features",
+    "relUrl": "/#features"
+  },"25": {
+    "doc": "Introduction",
+    "title": "Solutions",
+    "content": ". | Create DVD from MPEG-2 video files | Create DVD with menus using still images and moving backgrounds | Create DVD with multiple titles and chapters | Record live MPEG-2 stream to DVD in real time | . ",
+    "url": "https://dvdbuilder.com/#solutions",
+    "relUrl": "/#solutions"
+  }
+}
