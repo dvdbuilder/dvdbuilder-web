@@ -137,18 +137,36 @@
     "url": "https://dvdbuilder.com/support/#contact-us",
     "relUrl": "/support/#contact-us"
   },"23": {
+    "doc": "Related Products",
+    "title": "Related Products",
+    "content": " ",
+    "url": "https://dvdbuilder.com/related-products/",
+    "relUrl": "/related-products/"
+  },"24": {
+    "doc": "Related Products",
+    "title": "AVBlocks",
+    "content": "AVBlocks is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
+    "url": "https://dvdbuilder.com/related-products/#avblocks",
+    "relUrl": "/related-products/#avblocks"
+  },"25": {
+    "doc": "Related Products",
+    "title": "PrimoBurner",
+    "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
+    "url": "https://dvdbuilder.com/related-products/#primoburner",
+    "relUrl": "/related-products/#primoburner"
+  },"26": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "DVDBuilder SDK is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
     "url": "https://dvdbuilder.com/",
     "relUrl": "/"
-  },"24": {
+  },"27": {
     "doc": "Introduction",
     "title": "Features",
     "content": ". | Use XML to specify DVD features | Menus and languages | Subpicture and subtitles | Standard VIDEO_TS output that can be burned to DVD | Best DVD playback compatibility in the industry | Includes AVBlocks (Video SDK) | Integrates with PrimoBurner (Burning SDK) | . ",
     "url": "https://dvdbuilder.com/#features",
     "relUrl": "/#features"
-  },"25": {
+  },"28": {
     "doc": "Introduction",
     "title": "Solutions",
     "content": ". | Create DVD from MPEG-2 video files | Create DVD with menus using still images and moving backgrounds | Create DVD with multiple titles and chapters | Record live MPEG-2 stream to DVD in real time | . ",
